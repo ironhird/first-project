@@ -1,6 +1,4 @@
-##
----
-Изучение Git и GitHUB
+##Изучение Git и GitHUB
 ---
 
 ####Комманды GitBash
