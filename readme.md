@@ -1,7 +1,9 @@
-##Изучение Git и GitHUB
+##
+Изучение Git и GitHUB
 ---
 
-####Комманды GitBash
+####
+Комманды GitBash
 
 cd  
 ls  
@@ -12,7 +14,8 @@ rm
 rmdir  
 rm -r
 
-####Ключи Git
+####
+Ключи Git
 
 add  
 commit  
