@@ -1,10 +1,21 @@
-### Первый проект
-
+##
+---
+Изучение Git и GitHUB
 ---
 
-Изучение
+####Комманды GitBash
 
-Git и GitHUB
+cd
+ls
+ls -al
+mkdir
+touch
+rm
+rmdir
+rm -r
 
----
+####Ключи Git
 
+add
+commit
+push
