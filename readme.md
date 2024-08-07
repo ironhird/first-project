@@ -17,6 +17,9 @@ rm -r
 ####
 Ключи Git
 
+status
 add  
 commit  
-push
+push  
+pull  
+log  
