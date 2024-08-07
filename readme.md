@@ -9,12 +9,11 @@
 - mkdir  
 - touch  
 - rm  
-- rmdir  
-- rm -r
----
+- rmdir  rm -r  
+--- 
 
-#### Ключи Git
-- status
+#### Ключи Git  
+- status  
 - add  
 - commit  
 - push  
@@ -26,4 +25,13 @@
 - git log --oneline (уникальный кусок hash)  
 - (HEAD -> master) = HEAD[refs/heads/main] => MAIN[hash]  
 - Статусы untracked/tracked, staged, modified  
+
+```mermaid
+graph LR;
+  Created --> untracked;
+  untracked -- "git add" --> tracked/staged;
+  staged -- "git commit -m" --> tracked/comitted;
+  comitted -- "git push" --> pushed;
+``` 
+
 ---
